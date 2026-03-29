@@ -68,7 +68,7 @@ age-calculator-js/
 3)Handles month/day edge cases (like leap years)
 <br>
 <br>
-🌐 Live Demo 👉🏻 
+🌐 Live Demo 👉🏻 [GitHub](https://suraj-charan-dev.github.io/age-calculator-js/)
 <br>
 <br>
 🤝 Contributing
