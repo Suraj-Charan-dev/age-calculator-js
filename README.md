@@ -1,4 +1,4 @@
-📅 Age Calculator
+**📅 Age Calculator**
 <br>
 A modern and responsive Age Calculator Web Application built using HTML, CSS, and JavaScript. It calculates the exact age in years, months, and days based on the user's birth date with proper validation and a clean user interface.
 <br>
@@ -55,4 +55,24 @@ age-calculator-js/
 <br>
 📸 Preview
 <br>
-
+![Alt Text](ss1.png)
+![Alt Text](ss2.png)
+<br>
+<br>
+🧪 Validation Handling
+<br>
+1)Prevents empty input
+<br>
+2)Restricts future dates
+<br>
+3)Handles month/day edge cases (like leap years)
+<br>
+<br>
+🌐 Live Demo 👉🏻 
+<br>
+<br>
+🤝 Contributing
+<br>
+Contributions are welcome!
+<br>
+Feel free to fork this repository and submit a pull request.
